@@ -1,1 +1,1 @@
-# Terraform - Working with AWS EC2 Instances
+# Terraform - Working with Amazon Web Services (AWS)
